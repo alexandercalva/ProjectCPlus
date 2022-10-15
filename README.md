@@ -1,23 +1,19 @@
-# ProjectCPlus
-Project developed in the C++ language. The functionality is to register users with a menu of options.
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Project developed in the C++ language. The functionality is to register users with a menu of options.
 
-{Provide a description the software that you wrote to demonstrate the C++ language.}
+A program was developed to register users with email and a password. In order to store this information, a record was created in a text file with the email of each registered user. For the user, a menu is displayed where they choose whether to register or log in
+The purpose of this program is to use the user registry in a text file, simulating a record in a database. All the information can be recovered by reading the file with the email and password registered.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+The following tools were used for this project:
+* Visual Studio Code 
+* Compiler C++
 
 # Useful Websites
 
@@ -27,7 +23,6 @@ Project developed in the C++ language. The functionality is to register users wi
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Graphic interface
+* Pointers
+* Database connection
