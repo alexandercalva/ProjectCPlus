@@ -8,7 +8,7 @@ This program was developed to register users with email and a password. In order
 The purpose of this program is to use the user registry in a text file, simulating a record in a database. All the information can be recovered by reading the file with the email and password registered.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/huLCrZEWw_s)
 
 # Development Environment
 
@@ -18,9 +18,9 @@ The following tools were used for this project:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [Compiler tutorial](https://jmeubank.github.io/tdm-gcc/download/)
+
 
 # Future Work
 
